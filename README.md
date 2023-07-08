@@ -1,0 +1,2 @@
+# walletgen
+wallet_generate
